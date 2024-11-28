@@ -1,0 +1,6 @@
+PUT http://localhost:3000/users/4
+Content-Type: application/json
+
+{
+  "email" : "obi.wan.kenobi@jedi.com"
+}
